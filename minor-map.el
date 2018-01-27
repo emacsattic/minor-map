@@ -12,6 +12,8 @@
 ;; Updated 1991 by Per Abrahamsen at University of Aalborg, Denmark.
 ;; This file is not part of GNU emacs (Yet... ;-)
 
+;; License: public-domain
+
 ;; Everyone is granted permission to copy, modify and redistribute
 ;; this file, this includes the right to remove this message.
 
